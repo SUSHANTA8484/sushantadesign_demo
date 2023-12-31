@@ -1,4 +1,4 @@
 # sushantadesign_demo
 This is my first Git repository.
 <br>
-Author - sushanta sarkar
+Author - sushanta (Apna jibon)
